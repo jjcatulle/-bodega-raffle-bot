@@ -13,3 +13,6 @@ add more stores too it.
 #sorry for alot of errors, i have some hand motor function problem;
 
 contact me by leaving a comment
+
+
+sorry guys working more on the script
